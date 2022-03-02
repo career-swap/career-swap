@@ -1,0 +1,4 @@
+- Hello friends and other persons who stumble upon my page :)
+- I am a former chemical engineer looking to learn code to switch my career into something I'm more interested in.
+- I'm currently learning Java and Data Structures and hope to expand my knowledge to other popular languages and skills.
+- You can reach me at therealtlotus@gmail.com.
